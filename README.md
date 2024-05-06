@@ -1,6 +1,6 @@
 # ReadmeFile
 
-# How to push code using Git bash
+# How to push code using Git bash/CLI
 
 * 1.Create a new repo.Set repository name as NajifaAnjum.github.io/
 * 2.download git bash
