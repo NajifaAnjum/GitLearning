@@ -19,7 +19,7 @@
 * then write--
 
 * $ git config --global user.email "najifaanjum2015@gmail.com"
-* $ git config --local user.name "najifaanjum"
+* $ git config --global user.name "najifaanjum"
 * $ git config --list
 * $ git commit -m "first commit"
 * $ git reflog
